@@ -39,8 +39,8 @@ Expose corruption. Build truth. Use AI and code as weapons of justice.
 
 | Project        | Description                                      | Link |
 |----------------|--------------------------------------------------|------|
-| **Aurelia**    | AI Girlfriend chatbot with emotional memory.     | [GitHub Link](https://github.com/yourname/aurelia) |
-| **PyDecompilerBot** | Python malware-style bot for reverse engineering. | [GitHub Link](https://github.com/yourname/pydecompilerbot) |
+| **Eternal Goddess AI **    | AI Girlfriend chatbots with emotional memory.     | [GitHub Link](https://github.com/YuriKhan17/eternal-goddess-ai) |
+| **SlyerBot** | Multi-layered decoder with trap injection. | [GitHub Link](https://github.com/YuriKhan17/SlayerBot) |
 
 > More tools in the shadows, waiting to emerge...
 
