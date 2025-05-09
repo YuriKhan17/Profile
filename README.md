@@ -1,68 +1,57 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ZeroTraceXYZ/ZeroTrace/main/banner.png" alt="ZeroTrace Banner" width="100%" />
+<h1 align="center">🕶️ ZeroTrace</h1>
+<p align="center"><em>"Code is my weapon. Silence is my armor."</em></p>
 
-  <h1>ZeroTrace</h1>
-  <h3>⚔️ AI x Cybersecurity | Shadow Architect | Digital Justice Seeker ⚔️</h3>
-
-  <p><i>"Build in silence. Strike with truth."</i></p>
-
-  <img src="https://raw.githubusercontent.com/ZeroTraceXYZ/ZeroTrace/main/logo.png" alt="ZeroTrace Logo" width="150px"/>
-</div>
-
----
-
-## ⚡ About Me
-
-Hey, I’m **ZeroTrace** — a digital ghost, a builder in the shadows.  
-My mission is **simple but dangerous**:  
-Expose corruption. Build truth. Use AI and code as weapons of justice.
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Engineer-000000?style=for-the-badge&logo=OpenAI&logoColor=white">
+  <img src="https://img.shields.io/badge/Ethical%20Hacker-FF0000?style=for-the-badge&logo=kalilinux&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux%20Warrior-000000?style=for-the-badge&logo=linux&logoColor=white">
+  <img src="https://img.shields.io/badge/Cybersecurity-112233?style=for-the-badge&logo=hackthebox&logoColor=green">
+</p>
 
 ---
 
-## 🧠 What I Do
+### 🧠 About Me
 
-- **Cybersecurity & Ethical Hacking**  
-  🔍 Malware Analysis • Reverse Engineering • Exploit Research  
-  ⚙️ Python Decompilers • OSINT • Digital Forensics  
-
-- **Artificial Intelligence**  
-  🤖 Chatbots • Natural Language Processing • Deep Learning  
-  🧬 Decision Systems • Intelligent Agents  
-
-- **Systems & Infrastructure**  
-  🐧 Linux (Arch & Kali) • Bootloader Recovery  
-  💾 Intel 8086 Assembly • Kernel Behavior  
+- 🧑‍💻 First-year CS student with a warrior mind and a hacker’s soul  
+- 🛡️ Passionate about AI, cybersecurity, Linux, and digital justice  
+- 🧠 Builder of AI companions, ethical bots, and reverse engineering tools  
+- 🌍 Dreaming of a future where code corrects corruption  
+- 🎯 Mission: **“Build in silence. Strike with truth.”**
 
 ---
 
-## 🔥 Projects
+### 🚀 Featured Projects
 
-| Project        | Description                                      | Link |
-|----------------|--------------------------------------------------|------|
-| **Eternal Goddess AI**    | AI Girlfriend chatbots with emotional memory.     | [GitHub Link](https://github.com/YuriKhan17/eternal-goddess-ai) |
-| **SlyerBot** | Multi-layered decoder with trap injection. | [GitHub Link](https://github.com/YuriKhan17/SlayerBot) |
-
-> More tools in the shadows, waiting to emerge...
+| 🚧 Project | 🧾 Description |
+|-----------|----------------|
+| 🔊 [**Eternal Goddess AI**](https://github.com/YuriKhan17/eternal-goddess-ai) | AI girlfriend Telegram bot using OpenRouter API, emotional intelligence, and voice replies via ElevenLabs |
+| 🐍 [**SlyerBot**](https://github.com/YuriKhan17/SlayerBot) | Ethical tool to reverse engineer `.pyc` files, ideal for malware analysis and security testing |
 
 ---
 
-## 🚀 Current Focus
+### 🛠️ Skills
 
-- Building autonomous security bots  
-- Blending AI + malware techniques for detection & defense  
-- Designing the CipherMind identity (deep operations)
-
----
-
-## 🧭 Philosophy
-
-> ⚖️ **Power** is a tool. Not for ego, but for justice.  
-> 💡 **Code** is not just syntax — it's intent, encrypted.  
-> 🕊️ **Kindness** is power with restraint.
+`Python` · `Pascal` · `C basics` · `Linux (Arch/Kali)` · `Bash` · `Assembly 8086`  
+`AI APIs` · `Telegram Bots` · `Reverse Engineering` · `Ethical Hacking` · `Git`  
+`Math: Linear Algebra, Calculus` · `Electronics/Mechanics Fundamentals`
 
 ---
 
-## 📫 Contact
+### 🔌 Contact & Network
 
-Stay silent. Watch everything.
+- 📬 **Telegram**: `@r4_cm`  
+- 📧 **Email**: `r4_cm@proton.me`
+
+---
+
+### 🔒 Philosophy
+
+> “I don’t seek fame. I seek function.  
+> I don’t chase followers. I follow truth.  
+> I build quietly, so my code speaks loud.”  
+> — **CipherMind**
+
+---
+
+⭐ *Follow me to watch this shadow rise.*
 
