@@ -39,7 +39,7 @@ Expose corruption. Build truth. Use AI and code as weapons of justice.
 
 | Project        | Description                                      | Link |
 |----------------|--------------------------------------------------|------|
-| **Eternal Goddess AI **    | AI Girlfriend chatbots with emotional memory.     | [GitHub Link](https://github.com/YuriKhan17/eternal-goddess-ai) |
+| **Eternal Goddess AI**    | AI Girlfriend chatbots with emotional memory.     | [GitHub Link](https://github.com/YuriKhan17/eternal-goddess-ai) |
 | **SlyerBot** | Multi-layered decoder with trap injection. | [GitHub Link](https://github.com/YuriKhan17/SlayerBot) |
 
 > More tools in the shadows, waiting to emerge...
